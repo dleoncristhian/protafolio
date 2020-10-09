@@ -1,2 +1,3 @@
-# protafolio
-Descripcion de mi.
+Proyecto para presentacion personal.
+Desarrollado con ReactJs.
+102020.
