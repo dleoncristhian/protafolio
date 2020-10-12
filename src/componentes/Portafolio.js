@@ -73,7 +73,7 @@ const Portafolio = () => {
 						data.portafolio.map(value => (
 							<Card title={value.title} subtitle={value.subtitle} image={value.image} />	
 						)) 
-					: <div>cargando...</div>}
+					: <div>En mantenimiento...</div>}
 				
             </div>
 			</div>
